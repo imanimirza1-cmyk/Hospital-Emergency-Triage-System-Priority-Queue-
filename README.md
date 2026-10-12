@@ -176,7 +176,7 @@ ID: 1 | Name: Usman | Condition: Sprained ankle | Priority: 3
 
 ## 👤 Author
 
-**[Your Name]**
-[Your Roll Number / Student ID]
-[Your University / Department]
+**[Abdul Rehman]**
+[AI-24]
+[UET LHR/CS DEPT]
 Data Structures, Lab 04: Priority Queue
